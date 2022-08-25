@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/cream_white1"
+    tools:context=".Bottom_Navigation_Pages.Fragments.Home_Fragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/blue"
+        android:elevation="5dp"
+        android:paddingVertical="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/home_toolbar_profile_pic"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="5dp"
+            android:background="@drawable/stroke"
+            android:backgroundTint="@color/white"
+            android:padding="2dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/slide_img8"
+            android:tooltipText="profile" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="20dp"
+            android:layout_toRightOf="@id/home_toolbar_profile_pic"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello, "
+                android:textColor="@color/white"
+                android:textSize="@dimen/default_text_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/titlee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Isaac"
+                android:textColor="@color/white"
+                android:textSize="@dimen/default_title_size"
+
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/home_toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:theme="@style/Theme.toolbar"
+            app:menu="@menu/home_page_menu">
+
+
+        </androidx.appcompat.widget.Toolbar>
+    </RelativeLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/homeScroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="5dp">
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="10dp"
+                android:layout_marginVertical="5dp"
+                app:cardCornerRadius="20dp">
+
+                <com.denzcoskun.imageslider.ImageSlider
+                    android:id="@+id/slider"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:iss_auto_cycle="true"
+                    app:iss_period="1500"
+                    app:iss_title_background="@drawable/shadow_background" />
+            </androidx.cardview.widget.CardView>
+
+
+
+
+            <include layout="@layout/view_by_specialist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="5dp"/>
+
+            <include
+                layout="@layout/rec_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginVertical="5dp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:visibility="gone">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_margin="20dp"
+                    android:layout_weight="1"
+                    app:cardBackgroundColor="@color/home_light_red"
+                    app:cardCornerRadius="20dp"
+                    app:cardElevation="0dp">
+
+                    <RelativeLayout
+                        android:id="@+id/dashboard_medical_history"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:elevation="50dp"
+                        android:focusable="true"
+                        android:padding="10dp">
+
+
+                        <TextView
+                            android:id="@+id/title_medical_history"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="10dp"
+                            android:drawableTop="@drawable/ic_outline_folder_24"
+                            android:text="@string/medical_history"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/default_text_size"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:id="@+id/medical_histry_text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@id/title_medical_history"
+                            android:layout_centerInParent="true"
+                            android:gravity="center"
+                            android:text="No Appointments Booked"
+                            android:textSize="@dimen/text_hint_size" />
+                    </RelativeLayout>
+                </androidx.cardview.widget.CardView>
+
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>

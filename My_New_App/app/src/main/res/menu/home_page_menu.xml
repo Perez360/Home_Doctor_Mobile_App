@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/my_doctors_home"
+        android:title="My Doctors" />
+    <item
+        android:id="@+id/settings_home"
+        android:title="Settings" />
+    <item
+        android:id="@+id/help_and_support_home"
+        android:title="Help and Support" />
+
+
+</menu>

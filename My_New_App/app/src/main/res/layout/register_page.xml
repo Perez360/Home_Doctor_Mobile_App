@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/registerView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/blue"
+    tools:context=".Accounts_Related.RegisterPage">
+
+
+    <ImageView
+        android:id="@+id/back_toolbarR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="?actionBarItemBackground"
+        android:clickable="true"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_arrow_back_24_black" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="30dp"
+            android:orientation="vertical">
+
+
+            <LinearLayout
+                android:id="@+id/registerContentPane"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rounded_rectagle_bottom_square"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:padding="20dp">
+
+
+                <TextView
+                    android:id="@+id/resgiterTextview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Register"
+                    android:textColor="@color/green"
+                    android:textSize="@dimen/default_title_size"
+                    android:textStyle="bold" />
+
+
+                <ImageView
+                    android:id="@+id/regimg"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/user_black" />
+
+                <EditText
+                    android:id="@+id/usernameTextR"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="50dp"
+                    android:background="@drawable/account_edittext_backgroud"
+                    android:drawableLeft="@drawable/ic_baseline_person_24"
+                    android:drawablePadding="15dp"
+                    android:hint="Username"
+                    android:inputType="text"
+                    tools:ignore="TouchTargetSizeCheck" />
+
+
+                <EditText
+                    android:id="@+id/fullnameTextR"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/account_edittext_backgroud"
+                    android:drawableLeft="@drawable/ic_baseline_person_24"
+                    android:drawablePadding="15dp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:hint="Full name"
+                    android:inputType="text" />
+
+
+                <EditText
+                    android:id="@+id/emailTextR"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/account_edittext_backgroud"
+                    android:drawableLeft="@drawable/ic_baseline_alternate_email_24"
+                    android:drawablePadding="15dp"
+                    android:hint="Email"
+                    android:inputType="textEmailAddress" />
+
+                <EditText
+                    android:id="@+id/addressTextR"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/account_edittext_backgroud"
+                    android:drawableLeft="@drawable/ic_baseline_location_on_24"
+                    android:drawablePadding="15dp"
+                    android:hint="Address"
+                    android:inputType="text"
+                    android:maxLength="10" />
+
+
+                <EditText
+                    android:id="@+id/phoneTextR"
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/account_edittext_backgroud"
+                    android:drawableLeft="@drawable/ic_baseline_phone_iphone_24"
+                    android:drawablePadding="15dp"
+                    android:hint="Phone"
+                    android:inputType="phone"
+                    android:maxLength="10" />
+
+
+                <LinearLayout
+                    android:layout_width="350dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/spinner_shape"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:background="@drawable/ic_baseline_language_24_low_opacity" />
+
+                    <Spinner
+                        android:id="@+id/country_spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="350dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="20dp"
+                    android:background="@drawable/spinner_shape"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:src="@drawable/ic_baseline_person_24" />
+
+                    <Spinner
+                        android:id="@+id/occupation_spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true" />
+                </LinearLayout>
+
+
+                <Button
+                    android:id="@+id/nextBut"
+                    style="@style/ButtonStyle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="50dp"
+                    android:layout_marginTop="40dp"
+                    android:text="NEXT"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/button_text_size" />
+
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/my_blue"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </RelativeLayout>
+
+
+</LinearLayout>

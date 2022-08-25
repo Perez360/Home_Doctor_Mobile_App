@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Chat_Feature.Chat_Activity">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:background="@color/my_blue">
+
+
+            <LinearLayout
+                android:id="@+id/line"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginHorizontal="3dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/back_and_profile_and_more_background"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:padding="4dp">
+
+                <RelativeLayout
+                    android:id="@+id/backlayout"
+                    android:layout_width="70dp"
+                    android:layout_height="45dp"
+                    android:background="@drawable/do_button_ripple_views"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:gravity="center_vertical">
+
+                    <ImageView
+                        android:id="@+id/chat_back"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/ic_baseline_arrow_back_24_white" />
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/chat_profile_pic"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@id/chat_back"
+                        android:src="@drawable/ic_baseline_account_circle_24_white" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/userNameText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toLeftOf="@+id/chat_tool"
+                android:layout_toRightOf="@id/line"
+                android:background="@drawable/do_button_ripple_views"
+                android:clickable="true"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:paddingHorizontal="10dp"
+                android:text="Doctor Perez"
+                android:textColor="@color/white"
+                android:textSize="23sp"
+                android:textStyle="bold" />
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/chat_tool"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:theme="@style/Theme.toolbar"
+                app:menu="@menu/chat_menu" />
+        </RelativeLayout>
+
+
+        <ScrollView
+            android:id="@+id/scrollChat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingBottom="3dp"
+            android:scrollbarFadeDuration="1300">
+
+            <LinearLayout
+                android:id="@+id/chat_linearView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/no_message"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/chat_unselected"
+                    android:paddingHorizontal="8dp"
+                    android:paddingVertical="5dp"
+                    android:text="You have no messages with Doctor Perez"
+                    android:textColor="@color/yellow"
+                    android:textSize="13sp" />
+
+
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_margin="6dp"
+            android:gravity="bottom"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="5dp"
+                android:layout_weight="1"
+                android:background="@drawable/type_message_shape"
+                android:gravity="bottom"
+                android:orientation="horizontal">
+
+                <ImageButton
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="bottom"
+                    android:background="?attr/actionBarItemBackground"
+                    android:src="@drawable/ic_baseline_insert_emoticon_24" />
+
+                <EditText
+                    android:id="@+id/type_message_field"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:background="@color/empty"
+                    android:hint="Message"
+                    android:inputType="textMultiLine"
+                    android:maxLines="6"
+                    android:textColorHint="@color/ash"
+                    android:paddingVertical="5dp"
+                    android:paddingEnd="30dp"
+                    android:scrollbars="vertical"
+                    android:textColor="@color/white"
+                    android:textColorHighlight="@color/white"
+                    android:textSize="20sp" />
+
+                <ImageButton
+                    android:id="@+id/addPhotos"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_toRightOf="@id/type_message_field"
+                    android:background="?attr/actionBarItemBackground"
+                    android:src="@drawable/add_picture"
+                    app:backgroundTint="@color/white" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="bottom">
+
+                <Button
+                    android:id="@+id/send_message_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/send"
+                    app:backgroundTint="@color/deep_blue"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</RelativeLayout>

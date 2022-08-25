@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/doctor_menu"
+        android:icon="@drawable/more_vert_clicked"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/text_highlighter_doctor"
+                android:icon="@drawable/ic_baseline_text_format_24"
+                android:title="Turn on text Highlighter" />
+            <item
+                android:id="@+id/help_doctor"
+                android:icon="@drawable/ic_baseline_help_24"
+                android:title="Help" />
+
+
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Home Doctor</string>
+    <string name="Welcome">Welcome Patient</string>
+    <string name="my_doctors_nav">My Doctors</string>
+    <string name="home_nav">Home</string>
+    <string name="more_nav">More</string>
+    <string name="chats_nav">Chats</string>
+    <string name="Appoint_nav">Appointments</string>
+    <string name="Chat_settings_nav">Chat settings</string>
+    <string name="Chat_search_nav">Search</string>
+    <string name="text_chat">Chats</string>
+    <string name="home_doctor">Home Doctor</string>
+    <string name="health">Health</string>
+    <string name="medical_history">Medical History</string>
+    <string name="help">Help</string>
+    <string name="book_appointment">Book appointment</string>
+    <string name="close">Close</string>
+    <string name="find_doctor">Find a doctor...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

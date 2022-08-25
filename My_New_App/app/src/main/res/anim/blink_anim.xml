@@ -1,0 +1,19 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:repeatMode="reverse">
+    <alpha
+        android:duration="4000"
+        android:fromAlpha="0.4"
+        android:interpolator="@android:anim/accelerate_interpolator"
+        android:repeatCount="infinite"
+        android:toAlpha="1.0"/>
+
+    <scale
+        android:duration="3000"
+        android:fromXScale="0.5"
+        android:fromYScale="0.5"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="1"
+        android:repeatCount="infinite"
+        android:toYScale="1"/>
+</set>

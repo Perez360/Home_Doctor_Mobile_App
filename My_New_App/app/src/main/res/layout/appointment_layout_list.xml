@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical">
+
+    <RelativeLayout
+        android:id="@+id/lay1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/appoint_doc_img"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_baseline_account_circle_24_black" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="13dp"
+            android:layout_toEndOf="@id/appoint_doc_img"
+            android:gravity="center_vertical"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/appoint_doc_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Doctor perez"
+                android:textColor="@color/black"
+                android:textSize="@dimen/default_text_size"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/appoint_doc_time_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="15dp"
+                android:drawableLeft="@drawable/ic_baseline_schedule_24"
+                android:drawablePadding="5dp"
+                android:gravity="center_vertical"
+                android:text="2:04 AM"
+                android:textColor="@color/green"
+                android:textSize="@dimen/text_hint_size" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/appoint_doc_cancel"
+            style="@style/ButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="Cancel"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginStart="65dp"
+        android:layout_marginEnd="10dp"
+        android:layout_below="@id/lay1"
+        android:background="@color/custom_hint_color"/>
+</RelativeLayout>

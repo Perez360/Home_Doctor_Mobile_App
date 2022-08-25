@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Call"
+        android:id="@+id/call"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_round_call_24"/>
+    <item android:title="@string/Chat_settings_nav"
+        android:id="@+id/chat_settings"/>
+    <item android:title="Search"
+        android:id="@+id/chat_search"/>
+    <item android:title="Wallpaper"
+        android:id="@+id/wallpaper"/>
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_large_margin">30dip</dimen>
+    <dimen name="default_margin">10dip</dimen>
+
+    <dimen name="default_large_text_size">30sp</dimen>
+    <dimen name="default_title_size">25sp</dimen>
+    <dimen name="default_text_size">19sp</dimen>
+    <dimen name="default_search_text_size">20sp</dimen>
+    <dimen name="default_text_size_mini">15sp</dimen>
+    <dimen name="text_hint_size">15sp</dimen>
+    <dimen name="my_text_size">17sp</dimen>
+    <dimen name="button_text_size">15sp</dimen>
+
+
+    <!--Chat_Person_Fragment-->
+    <dimen name="chat_person_name">17sp</dimen>
+    <dimen name="chat_person_msg">15sp</dimen>
+    <dimen name="chat_person_msg_time_and_counter">13sp</dimen>
+
+    <!--Home_Fragment-->
+    <!--<dimen name="chat_person_name">17sp</dimen>
+    <dimen name="chat_person_msg">15sp</dimen>
+    <dimen name="chat_person_msg_time_and_counter">12sp</dimen>-->
+
+    <dimen name="default_text_size_doctor_list_name">20sp</dimen>
+    <dimen name="default_text_size_doctor_list_child">15sp</dimen>
+    <dimen name="default_text_size_doctor_list_child_work">12sp</dimen>
+</resources>

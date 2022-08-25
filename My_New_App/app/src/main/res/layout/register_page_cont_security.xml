@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/blue"
+    tools:context=".Accounts_Related.RegisterPage_Cont">
+
+
+    <ImageView
+        android:id="@+id/back_toolbarRC"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="10dp"
+        android:background="?actionBarItemBackground"
+        android:clickable="true"
+        android:padding="10dp"
+        android:src="@drawable/ic_round_arrow_back_24_white" />
+
+    <LinearLayout
+        android:id="@+id/registerCont_ContentPane"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/rounded_rectagle_home_toolbar"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="Create Password"
+            android:textColor="@color/red"
+            android:textSize="@dimen/default_title_size" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/password_icon" />
+
+
+        <EditText
+            android:id="@+id/passwordText"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/account_edittext_backgroud"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:textSize="@dimen/default_text_size"
+            android:textColor="@color/black" />
+
+        <EditText
+            android:id="@+id/confimPasswordText"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:hint="Confirm password"
+            android:background="@drawable/account_edittext_backgroud"
+            android:inputType="textPassword"
+            android:textColor="@color/black" />
+
+        <Button
+            android:id="@+id/createAccBut"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/button_selector_green"
+            android:text="Register"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/gotoLoginPage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:text="Have an Account"
+            android:textColor="@color/blue"
+            android:textSize="@dimen/button_text_size"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</RelativeLayout>

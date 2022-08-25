@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/isaac/.gradle/caches/transforms-3/25b2fc408b1bd38282163d4f3a1e6fb0/transformed/appcompat-1.4.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/.gradle/caches/transforms-3/416a4390273b43ded900906bbbeacda7/transformed/appcompat-1.4.2/res/drawable/abc_btn_default_mtrl_shape.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/.gradle/caches/transforms-3/77c1c773b5751ca43637697a959f9795/transformed/material-1.6.1/res/drawable/m3_popupmenu_background_overlay.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/.gradle/caches/transforms-3/96502282913302f392d65ba13ada5c11/transformed/material-1.7.0-alpha02/res/drawable/mtrl_popupmenu_background.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/.gradle/caches/transforms-3/d485a2feb087fdd5105097b1abb2bbf0/transformed/jetified-play-services-base-18.0.1/res/drawable/common_google_signin_btn_text_disabled.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/AppData/Local/Android/Sdk/platforms/android-32/data/res/drawable/btn_default.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/auto_complete_list.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/ListView_footers/chat_person_list_header.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable-v24/back_and_profile_and_more_background.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable-v24/button_background_disabled.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable-v24/button_blue_backgroung_disabled.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable-v24/button_selector_green.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.191" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/alert_dialogue_custom_shape.xml" value="0.173" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/alert_dialogue_custom_window_background.xml" value="0.173" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ash_shape_curve.xml" value="0.1725" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/back_and_profile_and_more_background.xml" value="0.196" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/back_and_profile_background.xml" value="0.196" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/back_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_background_enabled.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_background_enabled_blue.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_background_enabled_green.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_blue_backgroung_enabled.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_danger.xml" value="0.191" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_home.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_selector.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_selector_blue.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/button_selector_green.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/chat_attachment_ripple.xml" value="0.204" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/chat_badge.xml" value="0.1855" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/chat_icon_unclicked.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/chatlist.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/chatlist_black.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/chatunselected.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/clickgo.xml" value="0.2085" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/continueapp.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/cu.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/curve_rectangle_shape.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/curve_rectangle_shape_home.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/curve_shape_my_doctor.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/curve_shape_my_doctor_logo.xml" value="0.1855" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/custom_actionitem_menu_background.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/custom_button_background.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/custom_button_background_blue.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/custom_button_background_green.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/dashboard_top.xml" value="0.1775" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/delete.xml" value="0.14" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/do_button_ripple.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/do_button_ripple_custom_toolbar.xml" value="0.2085" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/do_button_ripple_views.xml" value="0.2085" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/dropdown_shadow.xml" value="0.185" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/gobutton.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/home.xml" value="0.185" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/home_nav_clicked.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/home_nav_unclicked.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_appointement.xml" value="0.187" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1765" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_account_circle_24_black.xml" value="0.196" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_add_a_photo_24.xml" value="0.164" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.185" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_add_to_photos_24.xml" value="0.196" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.1775" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1475" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_arrow_back_24_black.xml" value="0.1435" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_arrow_back_24_white.xml" value="0.1435" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1725" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.1935" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.1315" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_chat_bubble_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_delete_message_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.1855" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_done_24_new.xml" value="0.185" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.1775" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.2085" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_local_hospital_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_local_hospital_24_red.xml" value="0.187" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_mic_24.xml" value="0.1775" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_my_location_24.xml" value="0.1765" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.187" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_phone_iphone_24.xml" value="0.1805" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_report_problem_24.xml" value="0.1315" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_schedule_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_theme_6_24.xml" value="0.2085" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_user_white_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_users_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_baseline_users_blue_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1475" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_outline_add_photo_alternate_24.xml" value="0.1785" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_person.xml" value="0.1805" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ic_request.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/icon_shape.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/in_chat_bubble.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/login_unclicked_blue.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/more_horiz_unclicked.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/more_services_unclicked.xml" value="0.2155" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/more_vert_unclicked.xml" value="0.196" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/my_shadow_background.xml" value="0.1475" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/out_chat_bubble.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/popupmenu_background.xml" value="0.1315" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/registerback.xml" value="0.1985" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/report_background.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ripple_for_send_button.xml" value="0.2085" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/ripple_record_button.xml" value="0.1775" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/rounded_rectagle.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/select.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/settings_unclicked.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/shadow_background.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/signup_unclicked_green.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/spinner_background.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/spinner_shape.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/splash_bitmap.xml" value="0.1405" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/timeline_clicked.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/type_message_shape.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/uncreated_view_background.xml" value="0.187" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/view_doctor_background.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/drawable/white_shape.xml" value="0.169" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-land/dashboard.xml" value="0.15225225225225225" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-land/login_page.xml" value="0.18" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-land/main_page_layout.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-land/register_page.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-land/register_page_cont_security.xml" value="0.3862745098039216" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-land/startpage.xml" value="0.3630308076602831" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-large/chat_fragment.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-small/chat_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout-xlarge/chat_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/activity_add_photo.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/appointment_fragment.xml" value="0.31844029244516653" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/appointment_layout_list.xml" value="0.5407407407407407" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/appointment_list_footer.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/appointment_list_header.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/book_a_doctor.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/book_adoctor.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_activity.xml" value="0.67" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_fragment.xml" value="0.25483870967741934" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_page.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_person_activity.xml" value="0.2524146812620734" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_person_empty_view.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_person_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_person_list_footer.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_person_list_header.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_settings.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/chat_settings_layout.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/custom_chat_person_toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/custom_chat_toolbar.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/dashboard.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/delete_it.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/doctor_info.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/frag_more.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/fragment_dashboard.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/fragment_home.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/fragment_more.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/fragment_notifications.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/home_fragment.xml" value="0.3290183387270766" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/home_toolbar.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/list_footer.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/list_header.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/lisview_space.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/login_page.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/main_page.xml" value="0.12318840579710146" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/main_page_doctor.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/main_page_layout.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/main_page_old.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/main_page_patient.xml" value="0.18" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/more.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/more_page.xml" value="0.3195521102497847" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/more_service_page.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_doctors.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_doctors_frag.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_doctors_fragment.xml" value="0.18" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_doctors_list.xml" value="0.4326710816777042" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_doctors_list_footer.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_doctors_list_header.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_doctors_view.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_image.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/my_nav.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/navbarlayout.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/navigations.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/patient_home_controller.xml" value="0.426550598476605" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/patient_main.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/patient_page.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/person_chat.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/profile_viewer.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/register_page.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/register_page_cont_security.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/report_doctor_view.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/settings.xml" value="0.4314002828854314" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/settings_layout.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/signout_alert.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/spinner_item.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/splash_screen.xml" value="0.18" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/ssd.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/startpage.xml" value="0.18" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/succes_book_layout.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/textview.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/theme_layout.xml" value="0.36962750716332377" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/timeline_page.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/toolbar.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/toolbar_for_long_scroll.xml" value="0.18" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/user_main.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/view_contact.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/layout/welcome_page.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/appointment_menu.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/book_doctor_menu.xml" value="0.1375" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/chat_menu.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/chat_person_menu.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/delete_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/delete_menu_chat_person.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/exit.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/exit_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/huhu.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/my_doctor_menu.xml" value="0.16673792218896966" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/my_doctor_popup.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/my_menubar.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/mymenu1.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/nav_menu.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/patient_home_page_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaac/Desktop/Android_Studio_Projects/My_New_App/app/src/main/res/menu/the_menu.xml" value="0.16" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/add_picture.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/alert_dialogue_custom_window_background.xml" value="0.1745" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/app_icon.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/appointment_selected_iconn.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/appointments_nav_icon.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/appointments_selected_icon.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/appointments_unselected_icon.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/back_and_profile_and_more_background.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/button_background_disabled.xml" value="0.1745" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/button_background_enabled_blue.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/button_background_enabled_green.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/button_danger.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/button_home.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/button_selector_blue.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chat_attachment_ripple.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chat_badge.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chat_icon_clicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chat_icon_unclicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chat_nav.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chat_unselected_icon.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chatlist.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chatlist_black.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chats_nav_icon.xml" value="0.132" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chats_selected_icon.xml" value="0.132" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/chatunselected.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/clickgo.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/continueapp.xml" value="0.138" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/custom_button_background_blue.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/custom_button_background_green.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/dashboard_top.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/delete.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/divider.xml" value="0.152" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/do_button_ripple_views.xml" value="0.1375" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/doctors_toolbar_background.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/dots.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/dropdown_shadow.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/drwaer.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/filter_background.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ggg.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/gobutton.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/groud.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ground.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/group1.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/groups.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/groups2.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/home-location_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/home.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/home_mycardview_background.xml" value="0.15" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/home_nav.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/home_nav_clicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/home_nave_icon.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/home_selected_icon.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_appointement.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_arrow_back_24_black.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_chat_24.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.1745" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml" value="0.176" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_help_outline_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.138" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_insert_emoticon_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_language_24_low_opacity.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_local_hospital_24.xml" value="0.183" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_local_hospital_24_red.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.183" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_phone_iphone_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_report_problem_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1955" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.138" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_sort_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_thumb_down_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_toolbar_icon_book_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_users_blue_24.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_baseline_work_24.xml" value="0.1765" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_bubble_rounded_chat.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_calendar.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_filter_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_filter_24_sel.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_filter_24_unsel.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_group.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_make_an_appointment_9.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_notification_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1745" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_outline_folder_24.xml" value="0.1745" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_outline_report_problem_24.xml" value="0.102" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_outline_thumb_down_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_outline_thumb_up_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_request.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_arrow_back_24_black.xml" value="0.183" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_arrow_back_24_white.xml" value="0.183" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_call_24.xml" value="0.1375" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_cancel_24.xml" value="0.132" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_check_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_clear_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_clear_24_white.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_round_lock_24.xml" value="0.1685" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_rounded_cancel_24.xml" value="0.132" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_search_942.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_settings_sliders.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_settings_sliders_24.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_settings_sliders_24_sel.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_settings_sliders_24_unsel.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/ic_twotone_check_circle_24.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/icon_shape.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/in_chat_bubble.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/listview_background.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/login_unclicked_blue.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_clicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_horiz_clicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_horiz_unclicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_nav_icon.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_selected_icon.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_services.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_services_clicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_services_unclicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_unclicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_unselected_icon.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_vert_clicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/more_vert_unclicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/my_appointments_unselected_icon.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/my_doctors_nav.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/my_doctors_selected_icon.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/my_doctors_unselected_icon.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/nav_chat.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/nav_group.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/nav_home.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/nave_more.xml" value="0.1145" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/out_chat_bubble.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/out_chat_bubble_old.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/progress_background.xml" value="0.131" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/rec_shadow_background.xml" value="0.159" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/rectangle_round.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/registerback.xml" value="0.1945" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/report_background.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/round_filters.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/round_filters_add.xml" value="0.102" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/round_filters_clear.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/round_red.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/rounded_rectagle.xml" value="0.116" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/rounded_rectagle_below_square.xml" value="0.183" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/rounded_rectagle_home_toolbar.xml" value="0.199" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/rounded_rectangle_shape_white.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/scrollbarthumb.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/search_background.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/search_button_background.xml" value="0.1375" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/select_person.xml" value="0.1745" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/shadow_background.xml" value="0.15" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/signup_unclicked_green.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/spinner_shape.xml" value="0.2105" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/stroke.xml" value="0.1885" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/timeline_clicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/timeline_unclicked.xml" value="0.2075" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/type_message_shape.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/underline.xml" value="0.153" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/view_doctor_background.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/viewpager_background.xml" value="0.179" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/white_shape.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/drawable/white_shape_ripple.xml" value="0.186" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/font/amita.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/font/courgette.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-land/dashboard.xml" value="0.14" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-land/login_page.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-land/register_page.xml" value="0.17" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-land/register_page_cont.xml" value="0.17195767195767195" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-land/register_page_cont_security.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-land/startpage.xml" value="0.15" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-ldpi/home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-small/home_fragment.xml" value="0.5584045584045584" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-small/more_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-small/patient_home_controller.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout-v25/home_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/User_main.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/activity_add_photo.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/appointment_fragment.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/appointment_layout_list.xml" value="0.5493827160493827" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/appointment_list_footer.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/appointment_list_header.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/chat_activity.xml" value="0.8910505836575876" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/chat_layout.xml" value="0.67" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/chat_page.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/chat_person_activity.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/chat_person_empty_view.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/chat_person_list_footer.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/chat_person_list_header.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/custom_chat_person_toolbar.xml" value="0.1699074074074074" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/doctor_info.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/doctors_fragment.xml" value="0.447265625" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/doctors_list.xml" value="0.67" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/doctors_toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/expand_parent.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/expand_secondary.xml" value="1.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/filter_layout.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/fragment_blank.xml" value="0.17657657657657658" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/home_fragment.xml" value="0.33024431339511373" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/home_profile_viewer.xml" value="0.17657657657657658" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/home_toolbar.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/login_page.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/main_page.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/main_page_layout.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/main_toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/more_nav_icon.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/more_page.xml" value="0.3957367933271548" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/more_service_page.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/my_docotor_toolbar.xml" value="0.33" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/my_doctors_fragment.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/my_doctors_list.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/my_doctors_list_footer.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/my_doctors_list_header.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/my_expand.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/my_image.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/newhome.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/patient_home_controller.xml" value="0.38817005545286504" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/person_chat.xml" value="0.75" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/profile_viewer.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/rec_layout.xml" value="0.17657657657657658" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/recommended_doctore_layout.xml" value="0.9" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/register_page.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/register_page_cont.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/register_page_cont_security.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/report_doctor_view.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/settings.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/startpage.xml" value="0.16" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/theme_layout.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/timeline_page.xml" value="0.203125" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/toolbar_for_long_scroll.xml" value="0.67" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/view_by_specialist.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/layout/view_doctor_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/appointment_menu.xml" value="0.7040816326530612" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/chat_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/chat_person_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/doctor_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/exit_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/filter_appointment.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/filter_doctors.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/home_page_menu.xml" value="0.17657657657657658" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/menu.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/my_doctor_menu.xml" value="0.1" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/my_doctor_popup.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/nav_menu.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/menu/patient_home_page_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/My_New_App/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.188" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/account_edittext_backgroud.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/back_and_profile_and_more_background.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/button_background_disabled.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/button_background_enabled_blue.xml" value="0.1705" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/button_background_enabled_green.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/button_selector_blue.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/button_selector_green.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/chatlist.xml" value="0.2035" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/custom_button_background_blue.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/custom_button_background_green.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/do_button_ripple_views.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/doctor_list_pic_background.xml" value="0.2035" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/doctors_dots.xml" value="0.1945" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/doctors_toolbar_background.xml" value="0.1705" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/filter_background.xml" value="0.177" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/filter_sel.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_appointement.xml" value="0.1945" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.117" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_bookmark_border_24.xml" value="0.2035" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_delete_message_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.153" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_phone_iphone_24.xml" value="0.2035" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_text_format_24.xml" value="0.153" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_theme_6_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_baseline_toolbar_icon_book_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_calendar.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_filter_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_filter_24_sel.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_filter_24_unsel.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_make_an_appointment_9.xml" value="0.1945" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_message.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_round_done_24.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_search_942.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_settings_sliders_24_sel.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/ic_settings_sliders_24_unsel.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/item_background.xml" value="0.2115" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/round_filters_add.xml" value="0.153" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/round_filters_background.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/round_filters_clear.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/round_filters_ripple.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/round_filters_shape.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/searcch_button_background.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/search_background.xml" value="0.1995" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/search_button_background.xml" value="0.1555" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/speciality_background_doctor_list.xml" value="0.2035" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/spinner_shape.xml" value="0.117" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/drawable/white_shape_ripple.xml" value="0.166" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout-v31/doctors_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/appointment_fragment.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/chat_activity.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/chat_layout.xml" value="0.75" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/dashboard.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/doctor_info.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/doctors_fragment.xml" value="0.21" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/doctors_list.xml" value="0.2726337448559671" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/doctors_toolbar.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/filter_layout.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/home_fragment.xml" value="0.16" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/patient_home_controller.xml" value="0.5" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/person_chat.xml" value="1.0" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/register_page.xml" value="0.25" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/register_page_cont_security.xml" value="0.2" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/startpage.xml" value="0.22" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/layout/view_doctor_dialog.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/menu/doctor_menu.xml" value="0.1814814814814815" />
+        <entry key="..\:/Users/isaac/Desktop/New folder/My_New_App/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

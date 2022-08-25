@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:id="@+id/delete_group">
+        <item
+            android:id="@+id/delete_chat_person"
+            android:icon="@drawable/ic_baseline_delete_message_24"
+            android:title=""
+            app:showAsAction="always" />
+        <item
+            android:id="@+id/select_all_chat_person"
+            android:title="Select all" />
+        <item
+            android:id="@+id/markasunread_chat_person"
+            android:title="Mark as unread" />
+        <item
+            android:id="@+id/markasread_chat_person"
+            android:title="Mark as read" />
+        <item
+            android:id="@+id/view_contact_chat_person"
+            android:title="View Contact" />
+    </group>
+</menu>

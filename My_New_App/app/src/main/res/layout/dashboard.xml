@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    tools:context="com.example.home_doctor.Dashboard">
+<com.facebook.shimmer.ShimmerFrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="100dp">
+
+</com.facebook.shimmer.ShimmerFrameLayout>
+
+    <ImageView
+        android:id="@+id/back_toolbarD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="?actionBarItemBackground"
+        android:clickable="true"
+        android:src="@drawable/ic_round_arrow_back_24_white" />
+
+
+    <LinearLayout
+        android:id="@+id/centerPane"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/rounded_rectagle_home_toolbar"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingHorizontal="30dp"
+        android:paddingVertical="50dp">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/home_doctor"
+            android:textColor="@color/blue"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/home_doctor_logo" />
+
+        <Button
+            android:id="@+id/loginbutD"
+            style="@style/ButtonStyle"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Login"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/or"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="arial"
+            android:text="OR"
+            android:textColor="@color/black"
+            android:textSize="@dimen/default_text_size_mini"
+            android:textStyle="bold" />
+
+
+        <Button
+            android:id="@+id/registerbutD"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_selector_green"
+            android:text="Register"
+            android:textSize="@dimen/button_text_size"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

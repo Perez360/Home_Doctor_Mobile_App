@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="green">#229702</color>
+    <color name="chatcolor">#6B42A5F5</color>
+    <color name="blue">#2F5BC1</color>
+    <color name="light_blue">#497FFB</color>
+    <color name="very_light_blue">#AAC4FF</color>
+    <color name="empty" />
+    <color name="yellow">#FFB700</color>
+    <color name="yellow_orange">#FF4800</color>
+    <color name="red">#FF0000</color>
+    <color name="my_blue">#4D76D5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white">#CDCDCD</color>
+    <color name="chatSelected">#02201D</color>
+    <color name="layoutSelect">#1CA092</color>
+    <color name="ash">#C1C1C1</color>
+    <color name="custom_hint_color">#787878</color>
+    <color name="popupItemColor">#000000</color>
+    <color name="button_ripple_color">#B5E3E3E3</color>
+    <color name="chat_button_ripple_color">#0B16E8</color>
+    <color name="toolbar_colour">#0B16E8</color>
+    <color name="deep_blue">#00078F</color>
+    <color name="highlight_color">#78A2FF</color>
+    <color name="home_background">#5C80D1</color>
+    <color name="cream_white1">#E7EFFF</color>
+    <color name="cream_white">#002B8C</color>
+    <color name="divider_color">#DA6C6C6C</color>
+    <color name="my_doc_color">#828282</color>
+    <color name="badgecolor">#D80000</color>
+
+
+    <color name="home_light_red">#40FF0000</color>
+    <color name="home_light_purple">#40D500FA</color>
+    <color name="home_light_blue">#400066FF</color>
+    <color name="home_light_yellow">#40FFAA00</color>
+    <color name="home_light_green">#4080FF00</color>
+</resources>
